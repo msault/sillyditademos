@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="fix">
+  <title>Troubleshooting the FG-05 machine</title>
+<shortdesc>Solve common problems that could affect your ice cream machine.</shortdesc>
+  <prolog>
+    
+    <author type="creator">Michael Lopez</author>
+    <copyright>
+      <copyryear year="2016"/>
+      <copyrholder>Ice Makers</copyrholder>
+    </copyright>
+    
+  </prolog>
+  <troublebody>
+
+    <condition>
+
+      <p>The machine was making an ugly noise</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+ 
+        <p>The machine's flux capacitor is all messed up.</p>
+      </cause>
+      <remedy>
+        <steps>
+        
+          <step id="open-machine">
+            <cmd>Open the machine by kicking its right side</cmd>
+            <info> <p conref="welcome.dita#welcome/warning"/></info>
+            </step>
+          <step>
+            <cmd>Replace the flux capacitor</cmd>
+          </step>
+        </steps>
+      </remedy>
+ 
+    </troubleSolution>
+    <troubleSolution>
+      <cause>
+    
+        <p>Ice cream has funky flavor.</p>
+      </cause>
+      <remedy>
+        <steps>
+          
+          <step>
+            <cmd>Clean the filter</cmd>
+          </step>
+       
+        </steps>
+      </remedy>
+            
+    </troubleSolution>
+
+    <troubleSolution>
+      <cause>
+        
+        <p>Ice cream is yummy.</p>
+      </cause>
+      <remedy>
+        <steps>
+          
+          <step>
+            <cmd>Well, that's not a problem, Einstein!</cmd>
+          </step>
+          
+        </steps>
+      </remedy>
+      
+    </troubleSolution>
+    
+  </troublebody>
+</troubleshooting>
