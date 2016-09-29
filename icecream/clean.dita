@@ -5,21 +5,22 @@
     <shortdesc>This section gives you all the information you need to clean your ice cream
     machine</shortdesc>
     <prolog>
-        
+
         <author type="creator">Michael Lopez</author>
         <copyright>
             <copyryear year="2016"/>
             <copyrholder>Ice Makers</copyrholder>
         </copyright>
-        
+
     </prolog>
-   
+
     <taskbody>
         <prereq>In order to clean your machine, you will need the following: <ul>
                 <li>Water</li>
                 <li>Detergent</li>
                 <li>Gloves</li>
                 <li>Dirty machine</li>
+                <li>Determination</li>
         </ul>
         </prereq>
         <context>
